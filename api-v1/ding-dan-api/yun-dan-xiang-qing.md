@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # 运单详情
 
 **URL:** /openapi/v1/orders/{orderId}/fulfillments/{fulfillmentId}
